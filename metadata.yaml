@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/941
     wikipedia: http://en.wikipedia.org/wiki/Hermann_Hesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42338#Klingsors-letzter-SommerKinderseele---Klein-und-Wagner---Klingsors-letzter-Sommer
 gutenberg_issued: '2013-03-15'
 gutenberg_type: Text
 identifiers:
